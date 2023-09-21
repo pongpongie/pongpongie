@@ -1,4 +1,4 @@
-# 🐸 Jr.Dev Pongpongie
+# 🐸 Dev(진) Pongpongie
 
 <a href="https://github.com/pongpongie" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
 <a href="https://www.instagram.com/asukuream/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
